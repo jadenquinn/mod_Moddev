@@ -1,0 +1,11 @@
+{
+  "_fv": 15,
+  "_type": "tab",
+  "definition": {
+    "name": "mod_Mod",
+    "icon": {
+      "value": "Blocks.SANDSTONE#1"
+    },
+    "showSearch": true
+  }
+}
